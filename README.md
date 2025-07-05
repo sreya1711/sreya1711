@@ -11,7 +11,7 @@ A passionate Full Stack & Frontend Developer from India
 
 ### 🔍 About Me
 
-- 🎓 I'm a 2nd-Year Computer Science & Engineering Student  
+- 🎓 I'm a pre-final Year Computer Science & Engineering Student  
 - 💡 I'm currently learning backend & MongoDB  
 - 💬 Ask me about **React, JavaScript, MERN stack, UI/UX**  
 - 🧩 Fun fact: I love solving Sudoku puzzles and building creative UI designs  
