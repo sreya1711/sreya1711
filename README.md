@@ -5,8 +5,6 @@
 A passionate Full Stack & Frontend Developer from India  
 </p>
 
-<p align="center"><strong>🚀 Currently building: StyleAura — an Online Fashion Store</strong></p>
-
 ---
 
 ### 🔍 About Me
