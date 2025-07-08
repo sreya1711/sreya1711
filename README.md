@@ -6,7 +6,13 @@ A passionate Full Stack & Frontend Developer from India
 </p>
 
 ---
+### 📌 Quick Summary 
 
+- 🔭 Currently Working On: My full-stack fashion e-commerce app (StyleAura)  
+- 🌱 Learning: Backend with Node.js, MongoDB, and building scalable APIs  
+- 💼 Open to: Internship opportunities, collaborations, and freelance gigs  
+- 🎯 Goal for 2025: Build 5 real-world MERN projects and contribute to open-source
+---
 ### 🔍 About Me
 
 - 🎓 I'm a pre-final Year Computer Science & Engineering Student  
@@ -25,17 +31,28 @@ A passionate Full Stack & Frontend Developer from India
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=radical" />
-</p>
+[![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=radical)](https://github.com/sreya1711)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight)](https://github.com/sreya1711)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sreya1711&theme=dark&hide_border=false)
+
+--- 
 
 ### 🧠 LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sreya_11?ext=heatmap&theme=dark" />
 </p>
+
+---
+
+### 🌐 Live Projects
+
+- 🚀 [Mood Journal App](https://mood-journal.vercel.app)   
+- 🧩 [Sudoku](https://sudoku11.vercel.app/) 
+- 📘 [Phone Book App](https://phone-book-orpin.vercel.app/)
+---
 
 ### 🌐 Connect with Me
 
