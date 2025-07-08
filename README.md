@@ -49,7 +49,7 @@ A passionate Full Stack & Frontend Developer from India
 
 ### 🌐 Live Projects
 
-- 🚀 [Mood Journal App](https://mood-journal.vercel.app)   
+- 🚀 [Mood Journal App](https://mood-journal-swart.vercel.app/)   
 - 🧩 [Sudoku](https://sudoku11.vercel.app/) 
 - 📘 [Phone Book App](https://phone-book-orpin.vercel.app/)
 ---
