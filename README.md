@@ -35,7 +35,9 @@ A passionate Full Stack & Frontend Developer from India
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight)](https://github.com/sreya1711)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sreya1711&theme=dark&hide_border=false)
+## 🔥 GitHub Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreya1711&theme=dark&hide_border=false)
 
 --- 
 
