@@ -11,7 +11,7 @@ A passionate Full Stack & Frontend Developer from India
 - 🔭 Currently Working On: My full-stack fashion e-commerce app (StyleAura)  
 - 🌱 Learning: Backend with Node.js, MongoDB, and building scalable APIs  
 - 💼 Open to: Internship opportunities, collaborations, and freelance gigs  
-- 🎯 Goal for 2025: Build 5 real-world MERN projects and contribute to open-source
+- 🎯 Goal for 2025: Build impactful software that solves real-world problems.
 ---
 ### 🔍 About Me
 
