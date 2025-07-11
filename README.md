@@ -1,9 +1,13 @@
 <!-- Profile Header -->
-<h2 align="center">Hello 👋, I'm Sreya</h2>
-
 <p align="center">
-A passionate Full Stack & Frontend Developer from India  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=✨+Hello+I'm+Sreya+✨" alt="Glowing name" />
 </p>
+
+
+
+
+
+<p align="center">🧑‍💻A passionate Full Stack & Frontend Developer from India</p>
 
 ---
 ### 📌 Quick Summary 
