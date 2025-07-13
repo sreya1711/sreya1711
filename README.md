@@ -7,7 +7,7 @@
 
 
 
-<p align="center">🧑‍💻A passionate Full Stack & Frontend Developer from India</p>
+<p align="center">🧑‍💻A passionate Full Stack & Frontend Developer</p>
 
 ---
 ### 📌 Quick Summary 
