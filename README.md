@@ -7,7 +7,7 @@
 
 
 
-<p align="center">🧑‍💻A passionate Full Stack Developer|  Frontend Developer</p>
+<p align="center">🧑‍💻 A Frontend Developer | Passionate Full Stack Developer</p>
 
 ---
 ### 📌 Quick Summary 
