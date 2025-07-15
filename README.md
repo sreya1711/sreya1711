@@ -48,7 +48,7 @@
 
 ## 🔥 GitHub Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreya1711&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sreya1711&theme=tokyonight&hide_border=true)
 
 --- 
 
