@@ -25,6 +25,13 @@
 - 🧩 Fun fact: I love solving Sudoku puzzles and building creative UI designs  
 
 ---
+### 🌱 Currently Learning
+- MERN Stack Development
+- UI/UX & Animations
+- Firebase Authentication
+- JWT Authorization
+
+---
 ### 🛠️ Tech Stack
 
 <p align="left">
