@@ -28,8 +28,7 @@
 ### 🌱 Currently Learning
 - MERN Stack Development
 - UI/UX & Animations
-- Firebase Authentication
-- JWT Authorization
+- Artificial Intelligence
 
 ---
 ### 🛠️ Tech Stack
