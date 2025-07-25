@@ -64,6 +64,7 @@
 - 🚀 [Mood Journal App](https://mood-journal-swart.vercel.app/)   
 - 🧩 [Sudoku](https://sudoku11.vercel.app/) 
 - 📘 [Phone Book App](https://phone-book-orpin.vercel.app/)
+- 🍔 [Burger Shop](https://front-end-tfa1.vercel.app/)
 ---
 
 ### 🌐 Connect with Me
