@@ -41,7 +41,7 @@
 
 ### 📈 GitHub Stats
 
-[![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=radical)](https://github.com/sreya1711)
+[![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=radical&hide=contribs&count_private=true&token=YOUR_GITHUB_TOKEN)](https://github.com/sreya1711)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight)](https://github.com/sreya1711)
 
