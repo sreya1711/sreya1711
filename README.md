@@ -47,9 +47,7 @@
 
 
 ## 🔥 GitHub Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sreya1711&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sreya1711&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 
 --- 
