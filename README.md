@@ -1,35 +1,37 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sreya+Rajesh" alt="Sreya Rajesh" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1abc9c&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sreya+Rajesh" alt="Sreya Rajesh" />
 </p>
 
 <p align="center">
-  <strong>Frontend & MERN Stack Developer | UI/UX Designer | Passionate About Building Scalable Software</strong>
+  <strong style="color:#e67e22;">Frontend & MERN Stack Developer</strong> | <strong style="color:#9b59b6;">UI/UX Designer</strong> | <strong style="color:#3498db;">Passionate About Scalable Software</strong>
 </p>
 
 ---
 
 ### 📌 Professional Summary
-- 🔹 Pre-final Year Computer Science & Engineering student with a focus on full-stack web development  
+- 🔹 Pre-final Year Computer Science & Engineering student focused on **full-stack web development**  
 - 🔹 Skilled in **React, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3**  
-- 🔹 Passionate about creating **scalable, performant, and user-friendly applications**  
-- 🔹 Actively learning backend development, API design, and cloud integration  
+- 🔹 Passionate about building **scalable, performant, and user-friendly apps**  
+- 🔹 Actively learning **backend development, API design, cloud deployment**  
 - 🔹 Open to **internships, collaborative projects, and freelance opportunities**  
 
 ---
 
 ### 🛠️ Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,github,vscode" />
 </p>
 
 ---
 
 ### 🌱 Currently Learning
-- Advanced **MERN Stack Development**  
-- **UI/UX Design & Animations**  
-- **RESTful API Design & Cloud Deployment**  
+<p align="center">
+  <span style="background-color:#f39c12;color:white;padding:5px 10px;border-radius:5px;margin:2px;">Advanced MERN Stack</span>
+  <span style="background-color:#8e44ad;color:white;padding:5px 10px;border-radius:5px;margin:2px;">UI/UX & Animations</span>
+  <span style="background-color:#3498db;color:white;padding:5px 10px;border-radius:5px;margin:2px;">RESTful API & Cloud</span>
+</p>
 
 ---
 
@@ -44,30 +46,16 @@
 
 ---
 
-### 📈 GitHub Stats & Activity
-
+### 📊 GitHub Stats & Activity
 <p align="center">
-  <a href="https://github.com/sreya1711">
-    <img src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Sreya's GitHub Stats" />
-  </a>
-</p>
+  <!-- Daily Streaks -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreya1711&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150" style="margin:5px"/>
 
-<p align="center">
-  <a href="https://github.com/sreya1711">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
-  </a>
-</p>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=radical" alt="Top Languages" height="150" style="margin:5px"/>
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=sreya1711&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/sreya1711">
-    <img src="https://komarev.com/ghpvc/?username=sreya1711&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
-  </a>
+  <!-- Profile Views -->
+  <img src="https://badges.pufler.dev/ghpvc/?username=sreya1711&style=flat&color=ff4757" alt="Profile Views" height="150" style="margin:5px"/>
 </p>
 
 ---
@@ -80,9 +68,9 @@
 ---
 
 ### 🌐 Connect with Me
-<p align="left">
-  <a href="mailto:sreyarajesh110805@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/28/gmail.png" /></a>
-  <a href="https://www.linkedin.com/in/sreya-rajesh11/" target="_blank"><img src="https://img.icons8.com/color/28/linkedin.png" /></a>
-  <a href="https://github.com/sreya1711" target="_blank"><img src="https://img.icons8.com/ios-glyphs/28/000000/github.png" /></a>
-  <a href="https://leetcode.com/u/Sreya_11/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/28/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
+<p align="center">
+  <a href="mailto:sreyarajesh110805@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/40/gmail.png" /></a>
+  <a href="https://www.linkedin.com/in/sreya-rajesh11/" target="_blank"><img src="https://img.icons8.com/color/40/linkedin.png" /></a>
+  <a href="https://github.com/sreya1711" target="_blank"><img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" /></a>
+  <a href="https://leetcode.com/u/Sreya_11/" target="_blank"><img src="https://img.icons8.com/fluency/40/leetcode.png" /></a>
 </p>
