@@ -46,13 +46,29 @@
 
 ### 📈 GitHub Stats & Activity
 
-[![Sreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/sreya1711)  
+<p align="center">
+  <a href="https://github.com/sreya1711">
+    <img src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=vision-friendly-dark&count_private=true" alt="Sreya's GitHub Stats" />
+  </a>
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=vision-friendly-dark)](https://github.com/sreya1711)  
+<p align="center">
+  <a href="https://github.com/sreya1711">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sreya1711&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=sreya1711&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=sreya1711&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/sreya1711)
+<p align="center">
+  <a href="https://github.com/sreya1711">
+    <img src="https://komarev.com/ghpvc/?username=sreya1711&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
 ---
 
