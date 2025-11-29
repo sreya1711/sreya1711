@@ -1,91 +1,72 @@
 <!-- Profile Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=444444&center=true&vCenter=true&width=500&lines=✨+Hello+I'm+Sreya+✨" alt="Glowing name" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=1abc9c&center=true&vCenter=true&width=600&lines=Hi,+I'm+Sreya+Rajesh" alt="Sreya Rajesh" />
 </p>
 
-
-
-
-
-<p align="center">🧑‍💻 A Frontend Developer | Passionate Full Stack Developer</p>
+<p align="center">
+  <strong>Frontend & MERN Stack Developer | UI/UX Designer | Passionate About Building Scalable Software</strong>
+</p>
 
 ---
-### 📌 Quick Summary 
 
-- 🔭 Currently Working On: My full-stack fashion e-commerce app (StyleAura)  
-- 🌱 Learning: Backend with Node.js, MongoDB, and building scalable APIs  
-- 💼 Open to: Internship opportunities, collaborations, and freelance gigs  
-- 🎯 Goal for 2025: Build impactful software that solves real-world problems.
----
-### 🔍 About Me
-
-- 🎓 I'm a pre-final Year Computer Science & Engineering Student  
-- 💡 I'm currently learning backend & MongoDB  
-- 💬 Ask me about **React, JavaScript, MERN stack, UI/UX**  
-- 🧩 Fun fact: I love solving Sudoku puzzles and building creative UI designs  
+### 📌 Professional Summary
+- 🔹 Pre-final Year Computer Science & Engineering student with a focus on full-stack web development  
+- 🔹 Skilled in **React, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3**  
+- 🔹 Passionate about creating **scalable, performant, and user-friendly applications**  
+- 🔹 Actively learning backend development, API design, and cloud integration  
+- 🔹 Open to **internships, collaborative projects, and freelance opportunities**  
 
 ---
-### 🌱 Currently Learning
-- MERN Stack Development
-- UI/UX & Animations
-- Artificial Intelligence
 
----
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,mongodb,java,python,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,github,vscode" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Currently Learning
+- Advanced **MERN Stack Development**  
+- **UI/UX Design & Animations**  
+- **RESTful API Design & Cloud Deployment**  
 
-[![Sreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=radical&hide=contribs&count_private=true&token=YOUR_GITHUB_TOKEN)](https://github.com/sreya1711)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight)](https://github.com/sreya1711)
+### 🚀 Projects
+| Project | Tech Stack | Link |
+|---------|-----------|------|
+| **StyleAura** | React, Node.js, MongoDB | [Live](https://your-styleaura-link.com) |
+| **Mood Journal App** | React, Firebase | [Live](https://mood-journal-swart.vercel.app/) |
+| **Sudoku Solver** | React, JavaScript | [Live](https://sudoku11.vercel.app/) |
+| **Phone Book App** | React, Node.js | [Live](https://phone-book-orpin.vercel.app/) |
+| **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) |
 
+---
 
-## 🔥 GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sreya1711&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+### 📈 GitHub Stats & Activity
 
+[![Sreya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=vision-friendly-dark&count_private=true)](https://github.com/sreya1711)  
 
---- 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=vision-friendly-dark)](https://github.com/sreya1711)  
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sreya1711&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=sreya1711&label=Profile+Views&color=0e75b6&style=flat)](https://github.com/sreya1711)
+
+---
 
 ### 🧠 LeetCode Stats
-
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sreya_11?ext=heatmap&theme=dark" />
+  <img src="https://leetcard.jacoblin.cool/Sreya_11?ext=heatmap&theme=dark" alt="LeetCode Stats" />
 </p>
 
----
-
-### 🌐 Live Projects
-
-- 🚀 [Mood Journal App](https://mood-journal-swart.vercel.app/)   
-- 🧩 [Sudoku](https://sudoku11.vercel.app/) 
-- 📘 [Phone Book App](https://phone-book-orpin.vercel.app/)
-- 🍔 [Burger Shop](https://front-end-tfa1.vercel.app/)
 ---
 
 ### 🌐 Connect with Me
-
 <p align="left">
-  <a href="mailto:sreyarajesh110805@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/28/gmail.png" alt="Gmail" style="margin-right:20px;" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/sreya-rajesh11/" target="_blank">
-    <img src="https://img.icons8.com/color/28/linkedin.png" alt="LinkedIn" style="margin-right:20px;" />
-  </a>
-
-  <a href="https://github.com/sreya1711" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/28/000000/github.png" alt="GitHub" style="margin-right:20px;" />
-  </a>
-
-  <a href="https://leetcode.com/u/Sreya_11/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/28/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" style="margin-right:20px;" />
-  </a>
+  <a href="mailto:sreyarajesh110805@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/28/gmail.png" /></a>
+  <a href="https://www.linkedin.com/in/sreya-rajesh11/" target="_blank"><img src="https://img.icons8.com/color/28/linkedin.png" /></a>
+  <a href="https://github.com/sreya1711" target="_blank"><img src="https://img.icons8.com/ios-glyphs/28/000000/github.png" /></a>
+  <a href="https://leetcode.com/u/Sreya_11/" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/28/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
 </p>
-
-
