@@ -50,12 +50,6 @@
 <p align="center">
   <!-- Daily Streaks -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreya1711&theme=radical&hide_border=false&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="150" style="margin:5px"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=radical" alt="Top Languages" height="150" style="margin:5px"/>
-
-  <!-- Profile Views -->
-  <img src="https://badges.pufler.dev/ghpvc/?username=sreya1711&style=flat&color=ff4757" alt="Profile Views" height="150" style="margin:5px"/>
 </p>
 
 ---
