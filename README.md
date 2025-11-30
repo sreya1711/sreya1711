@@ -38,7 +38,6 @@
 ### 🚀 Projects
 | Project | Tech Stack | Link |
 |---------|-----------|------|
-| **StyleAura** | React, Node.js, MongoDB | [Live](https://your-styleaura-link.com) |
 | **Mood Journal App** | React, Firebase | [Live](https://mood-journal-swart.vercel.app/) |
 | **Sudoku Solver** | React, JavaScript | [Live](https://sudoku11.vercel.app/) |
 | **Phone Book App** | React, Node.js | [Live](https://phone-book-orpin.vercel.app/) |
