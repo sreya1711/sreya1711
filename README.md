@@ -4,7 +4,15 @@
 </p>
 
 <p align="center">
-  <strong style="color:#e67e22;">Frontend & MERN Stack Developer</strong> | <strong style="color:#9b59b6;">UI/UX Designer</strong> | <strong style="color:#3498db;">Passionate About Scalable Software</strong>
+  <strong style="color:#e67e22;">Frontend & MERN Stack Developer</strong> | 
+  <strong style="color:#9b59b6;">UI/UX Designer</strong> | 
+  <strong style="color:#3498db;">Passionate About Scalable Software</strong>
+</p>
+
+---
+
+<p align="center">
+  <em style="font-size:18px;">"Great design is achieved not when there's nothing more to add, but when there's nothing left to take away."</em>
 </p>
 
 ---
@@ -35,6 +43,7 @@
 
 ---
 
+
 ### 🚀 Projects
 | Project | Tech Stack | Link |
 |---------|-----------|------|
@@ -43,6 +52,14 @@
 | **Phone Book App** | React, Node.js | [Live](https://phone-book-orpin.vercel.app/) |
 | **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) |
 
+---
+
+
+### 🎶 Coding Vibes  
+> Currently jamming to: *lofi beats while debugging* 🎧
+
+### 🧩 Fun Fact  
+📝 I break UI before fixing it — it’s part of the process 😄  
 ---
 
 ### 📊 GitHub Stats & Activity
@@ -65,10 +82,6 @@
 
 ---
 
-
-
----
-
 ### 🧠 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sreya_11?ext=heatmap&theme=dark" alt="LeetCode Stats" />
@@ -83,3 +96,20 @@
   <a href="https://github.com/sreya1711" target="_blank"><img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" /></a>
   <a href="https://leetcode.com/u/Sreya_11/" target="_blank"><img src="https://img.icons8.com/fluency/40/leetcode.png" /></a>
 </p>
+
+---
+
+## 🎨✨ Quote to End With  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Dream-ff6b81?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-fdcb6e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Develop-74b9ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deliver-55efc4?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <em>"Every line of code is a step closer to the future you're building."</em>
+</p>
+
+---
