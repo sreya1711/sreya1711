@@ -1,18 +1,18 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=1abc9c&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sreya+Rajesh" alt="Sreya Rajesh" />
-</p>
+<h1 align="center" style="font-size: 48px; font-weight: 800;">
+  💻✨👩‍💻 Hi, I'm 
+  <span style="color:#ff6ec7;">Sreya</span>
+  <span style="color:#ff9a8b;">Rajesh</span>
+</h1>
+
+
+
+
 
 <p align="center">
   <strong style="color:#e67e22;">Frontend & MERN Stack Developer</strong> | 
   <strong style="color:#9b59b6;">UI/UX Designer</strong> | 
   <strong style="color:#3498db;">Passionate About Scalable Software</strong>
-</p>
-
----
-
-<p align="center">
-  <em style="font-size:18px;">"Great design is achieved not when there's nothing more to add, but when there's nothing left to take away."</em>
 </p>
 
 ---
@@ -26,10 +26,49 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 Technical Skills
 
+### 🧑‍💻 Programming Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,express,java,python,github,vscode" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+</p>
+
+### 🎨 Frontend Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+</p>
+
+### 🛠️ Backend Development
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" style="background:white; padding:5px; border-radius:8px;"/>
+</p>
+
+### 🗄️ Databases
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50"/>
+</p>
+
+### ⚒️ Tools & Platforms
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="50"/>
+</p>
+
+---
+
+## 🌟 Soft Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Problem%20Solving-ff7675?style=for-the-badge&logo=code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Communication-74b9ff?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Collaboration-55efc4?style=for-the-badge&logo=people&logoColor=white" />
 </p>
 
 ---
@@ -57,9 +96,6 @@
 
 ### 🎶 Coding Vibes  
 > Currently jamming to: *lofi beats while debugging* 🎧
-
-### 🧩 Fun Fact  
-📝 I break UI before fixing it — it’s part of the process 😄  
 ---
 
 ### 📊 GitHub Stats & Activity
