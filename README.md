@@ -56,14 +56,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img 
-<img src="https://github-readme-stats-mu-azure-91.vercel.app/api?username=sreya1711&show_icons=true&theme=tokyonight&hide_border=false" height="160" />
-</p>
-
----
-
 ### 🧩 Contribution Graph
 <p align="center">
   <img 
@@ -73,18 +65,6 @@
 
 ---
 
-### ⭐ Custom Stats Card
-<p align="center">
-  <img src="https://img.icons8.com/color/48/combo-chart--v1.png" width="40"/>
-
-  <h3>Stats</h3>
-
-  <p>⭐ <strong>Total Stars:</strong> 1</p>
-  <p>🔄 <strong>2025 Commits:</strong> 60</p>
-  <p>🔧 <strong>Total PRs:</strong> 0</p>
-  <p>🐞 <strong>Total Issues:</strong> 0</p>
-  <p>📦 <strong>Contributed to:</strong> 8</p>
-</p>
 
 
 ---
