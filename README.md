@@ -97,15 +97,14 @@
 ### 🎶 Coding Vibes  
 > Currently jamming to: *lofi beats while debugging* 🎧
 ---
+## 📊 GitHub Stats & Activity
 
-### 📊 GitHub Stats & Activity
-### 🔥 Streak Stats
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&hide_border=false" 
-    height="170" 
-  />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=tokyonight)
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sreya1711&theme=tokyonight)
+
 
 ---
 
