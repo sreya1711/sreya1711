@@ -1,9 +1,8 @@
 <!-- Profile Header -->
-<h1 align="center" style="font-size: 48px; font-weight: 800;">
-  💻✨👩‍💻 Hi, I'm 
-  <span style="color:#ff6ec7;">Sreya</span>
-  <span style="color:#ff9a8b;">Rajesh</span>
-</h1>
+<p align="center">
+  <img src="assets/SREYA_banner.svg" />
+</p>
+
 
 
 
@@ -17,7 +16,7 @@
 
 ---
 
-### 📌 Professional Summary
+### 🧑‍💻Developer Profile
 - 🔹 Pre-final Year Computer Science & Engineering student focused on **full-stack web development**  
 - 🔹 Skilled in **React, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3**  
 - 🔹 Passionate about building **scalable, performant, and user-friendly apps**  
@@ -89,7 +88,7 @@
 | **Mood Journal App** | React, Firebase | [Live](https://mood-journal-swart.vercel.app/) |
 | **Sudoku Solver** | React, JavaScript | [Live](https://sudoku11.vercel.app/) |
 | **Phone Book App** | React, Node.js | [Live](https://phone-book-orpin.vercel.app/) |
-| **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) |
+| **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) | 
 
 ---
 
