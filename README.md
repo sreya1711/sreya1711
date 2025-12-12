@@ -98,9 +98,23 @@
 > Currently jamming to: *lofi beats while debugging* 🎧
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Achievements
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=sreya1711&theme=tokyonight&no-frame=true&row=1" />
+</p>
+
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight&show_icons=true" />
+</p>
+
+<p align="center">
+  <!-- Combined Stats: Stars + Commits + PRs + Issues -->
+  <img src="https://github-readme-stats.vercel.app/api?username=sreya1711&hide=stars&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
+</p>
+
 
 ### 🔥 Streak Stats
 
