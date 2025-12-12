@@ -89,6 +89,7 @@
 | **Sudoku Solver** | React, JavaScript | [Live](https://sudoku11.vercel.app/) |
 | **Phone Book App** | React, Node.js | [Live](https://phone-book-orpin.vercel.app/) |
 | **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) | 
+| **Calculator** | HTML, CSS | [Live](https://calculator-eight-gules-32.vercel.app/) | 
 
 ---
 
