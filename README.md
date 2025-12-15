@@ -131,13 +131,6 @@
 
 ---
 
-### 🧠 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Sreya_11?ext=heatmap&theme=dark" alt="LeetCode Stats" />
-</p>
-
----
-
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:sreyarajesh110805@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/40/gmail.png" /></a>
