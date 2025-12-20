@@ -1,7 +1,7 @@
 <!-- Profile Header -->
-<p align="center">
-  <img src="assets/SREYA_banner.svg" />
-</p>
+
+<h1 align="center">SREYA RAJESH🧑‍💻</h1>
+
 
 
 
