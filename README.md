@@ -136,7 +136,11 @@
   <a href="mailto:sreyarajesh110805@gmail.com" target="_blank"><img src="https://img.icons8.com/fluency/40/gmail.png" /></a>
   <a href="https://www.linkedin.com/in/sreya-rajesh11/" target="_blank"><img src="https://img.icons8.com/color/40/linkedin.png" /></a>
   <a href="https://github.com/sreya1711" target="_blank"><img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" /></a>
-  <a href="https://leetcode.com/u/Sreya_11/" target="_blank"><img src="https://img.icons8.com/fluency/40/leetcode.png" /></a>
+  <a href="https://leetcode.com/u/Sreya_11/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" width="32" />
+</a>
+
+
 </p>
 
 ---
