@@ -17,11 +17,11 @@
 ---
 
 ### 🧑‍💻Developer Profile
-- 🔹 Pre-final Year Computer Science & Engineering student focused on **full-stack web development**  
-- 🔹 Skilled in **React, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3**  
-- 🔹 Passionate about building **scalable, performant, and user-friendly apps**  
-- 🔹 Actively learning **backend development, API design, cloud deployment**  
-- 🔹 Open to **internships, collaborative projects, and freelance opportunities**  
+🔹 Pre-final Year Computer Science & Engineering student focused on **full-stack web development**  
+🔹 Skilled in **React, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3**  
+🔹 Passionate about building **scalable, performant, and user-friendly apps**  
+🔹 Actively learning **backend development, API design, cloud deployment**  
+🔹 Open to **internships, collaborative projects, and freelance opportunities**  
 
 ---
 
