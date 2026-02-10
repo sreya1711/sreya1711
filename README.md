@@ -10,7 +10,6 @@
 
 <p align="center">
   <strong style="color:#e67e22;">Frontend & MERN Stack Developer</strong> | 
-  <strong style="color:#9b59b6;">UI/UX Designer</strong> | 
   <strong style="color:#3498db;">Passionate About Scalable Software</strong>
 </p>
 
