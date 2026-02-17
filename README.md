@@ -116,9 +116,9 @@
 
 ### 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sreya1711&theme=tokyonight)
-
-
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ### 🧩 Contribution Graph
