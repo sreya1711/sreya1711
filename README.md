@@ -1,26 +1,21 @@
-<!-- Profile Header -->
-
-<h1 align="center">SREYA RAJESH🧑‍💻</h1>
-
-
-
-
-
-
+<!-- ================= HEADER ================= -->
+<h1 align="center">SREYA RAJESH</h1>
 
 <p align="center">
-  <strong style="color:#e67e22;">Frontend & MERN Stack Developer</strong> | 
-  <strong style="color:#3498db;">Passionate About Scalable Software</strong>
+  <strong>Computer Science Student • Problem Solver • Tech Enthusiast</strong>
 </p>
 
 ---
 
-### 🧑‍💻Developer Profile
-🔹 Pre-final Year Computer Science & Engineering student focused on **full-stack web development**  
-🔹 Skilled in **React, Node.js, Express, MongoDB, JavaScript, HTML5, CSS3**  
-🔹 Passionate about building **scalable, performant, and user-friendly apps**  
-🔹 Actively learning **backend development, API design, cloud deployment**  
-🔹 Open to **internships, collaborative projects, and freelance opportunities**  
+<!-- ================= ABOUT ================= -->
+## 👩‍💻 About Me
+
+- 🎓 Pre-final year CSE student  
+- 🧠 Strong foundation in **DBMS & Data Structures**  
+- 💻 Skilled in **Python, Java, SQL**  
+- ⚙️ Focused on writing clean and efficient code  
+- 🌱 Continuously learning and improving  
+
 
 ---
 
@@ -97,38 +92,45 @@
 > Currently jamming to: *lofi beats while debugging* 🎧
 ---
 
-### 📊 GitHub Summary
+<!-- ================= 📊 GITHUB ANALYTICS ================= -->
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreya1711&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreya1711&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sreya1711&theme=tokyonight&utcOffset=5" />
-</p>
-
-
-
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&cache_seconds=1800" />
-</p>
----
-
-### 🧩 Contribution Graph
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sreya1711&theme=react-dark&hide_border=false" 
-  />
+  <img src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&hide_border=true" width="70%"/>
 </p>
 
 ---
+
+<!-- ================= 📈 CONTRIBUTION GRAPH ================= -->
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya1711&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= 🧠 LEETCODE ================= -->
+## 🧠 LeetCode Performance
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Sreya_11?theme=dark&font=Baloo&ext=contest" />
+</p>
+
+---
+
+<!-- ================= 👀 PROFILE VIEWS ================= -->
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sreya1711&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+</p>
+
 ### 🌐 Connect with Me
 <p align="center">
   <a href="mailto:sreyarajesh110805@gmail.com" target="_blank">
