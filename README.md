@@ -86,9 +86,57 @@
 
 ---
 
-
 ### 🎶 Coding Vibes  
 > Currently jamming to: *lofi beats while debugging* 🎧
+---
+
+## 🏆 Achievements & Awards
+
+<table align="center">
+<tr>
+
+<td align="center" width="300" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
+
+### 🥇 First Prize  
+<img src="https://img.icons8.com/color/96/trophy.png" width="60"/>
+
+**Automated Coconut Sorting System**  
+<br/><br/>
+🏫 AI Department Expo  
+<br/>
+📍 Kongu Engineering College  
+
+</td>
+
+<td align="center" width="300" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
+
+### 🥈 Second Prize  
+<img src="https://img.icons8.com/color/96/medal2.png" width="60"/>
+
+**Green Lifestyle & Finance Tracker**  
+<br/><br/>
+🏫 MCA Hackathon 2K25  
+<br/>
+📍 Kongu Engineering College  
+
+</td>
+
+<td align="center" width="300" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
+
+### 🥉 Third Prize  
+<img src="https://img.icons8.com/color/96/medal.png" width="60"/>
+
+**Learning Management System**  
+<br/><br/>
+🏫 IDEATHON 2K25  
+<br/>
+📍 Kongu Engineering College  
+
+</td>
+
+</tr>
+</table>
+
 ---
 
 <!-- ================= 📊 GITHUB ANALYTICS ================= -->
