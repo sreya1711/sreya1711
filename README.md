@@ -20,26 +20,32 @@
 
 ## 🚀 Technical Skills
 
-### 🧑‍💻 Languages
+### <p align="center">🧑‍💻Languages</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
-### 🌐 Web & Frontend
+### <p align="center">🌐 Web & Frontend</p>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-### ⚙️ Backend & Databases
+
+### <p align="center">⚙️ Backend & Databases</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
-### 🛠️ Tools & Platforms
+
+### <p align="center">🛠️ Tools & Platforms</p>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
----
+
 
 ## 🌟 Soft Skills
 <p align="center">
