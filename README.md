@@ -131,31 +131,31 @@
 ---
 
 <!-- ================= 📊 GITHUB ANALYTICS ================= -->
+
 ## 📊 GitHub Analytics
 
 <p align="center">
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" 
-    width="48%"
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
   />
-  
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="48%"
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreya1711&layout=compact&theme=tokyonight&hide_border=true"
   />
 
 </p>
 
 <p align="center">
-  
-  <img 
-    src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&hide_border=true&cache_seconds=1800" 
-    width="70%"
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sreya1711&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 
 </p>
----
 
 ## 📈 Contribution Graph
 
