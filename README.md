@@ -93,7 +93,7 @@
 
 **Automated Coconut Sorting System**  
 <br/><br/>
-🏫 AI Department Expo  
+🏫 Hackvotrix 2k25
 <br/>
 📍 Kongu Engineering College  
 
