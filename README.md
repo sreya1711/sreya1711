@@ -161,6 +161,12 @@
 
 ---
 
+## 💚 GeeksforGeeks Performance
+
+<p align="center">
+  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sreyarajed9u0" />
+</p>
+
 <!-- ================= 👀 PROFILE VIEWS ================= -->
 ## 👀 Profile Views
 
