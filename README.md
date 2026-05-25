@@ -139,7 +139,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreya1711&theme=tokyonight" />
   
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreya1711&theme=tokyonight" />
 </p>
@@ -147,7 +146,6 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreya1711&theme=tokyonight" />
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sreya1711&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ## 📈 Contribution Graph
