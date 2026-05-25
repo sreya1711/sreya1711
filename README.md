@@ -161,10 +161,10 @@
 
 ---
 
-## 💚 GeeksforGeeks Performance
+## 💚 GeeksforGeeks Stats
 
 <p align="center">
-  <img src="https://geeks-for-geeks-stats-card.vercel.app/?username=sreyarajed9u0" />
+  <img src="https://gfgstatscard.vercel.app/sreyarajed9u0" />
 </p>
 
 <!-- ================= 👀 PROFILE VIEWS ================= -->
