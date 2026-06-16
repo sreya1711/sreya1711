@@ -201,20 +201,11 @@
 
 
 ## 🏆 GitHub Achievements
-
-<table align="center">
-<tr>
-<td align="center" style="padding:15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreya1711&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=4&row=1" />
-</td>
-</tr>
-
-<tr>
-<td align="center" style="padding:15px;">
-  <img src="https://github-profile-trophy.vercel.app/?username=sreya1711&theme=flat&no-frame=true&no-bg=true&margin-w=15&column=4&row=1&rank=SSS,SS,S,AAA,AA,A" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://github.com/sreya1711?tab=achievements">
+    <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-gold?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ## 🎨✨ Quote to End With  
 
