@@ -139,7 +139,8 @@
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&hide_border=true&v=2" /></p>
+<img src="https://streak-stats.demolab.com?user=sreya1711&theme=tokyonight&hide_border=true&v=3" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sreya1711&theme=tokyonight" />
