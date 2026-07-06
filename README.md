@@ -18,6 +18,28 @@
 
 ---
 
+## 📂 What You'll Find Here
+
+🌐 **Full Stack Projects** – Building complete web applications
+
+☕ **Java Programs** – OOP, problem-solving & core Java
+
+🐍 **Python Projects** – Automation, scripting & logic building
+
+🗄️ **SQL Solutions** – Queries, joins & database practice
+
+🧩 **DSA Practice** – Arrays, Strings, Linked Lists & more
+
+🏆 **Hackathon Projects** – Innovative solutions and prototypes
+
+🎨 **UI Experiments** – Responsive and creative frontend designs
+
+💡 **Mini Projects** – Fun ideas turned into working applications
+
+🚀 **Learning Journey** – Exploring new technologies every day
+
+---
+
 ## 🚀 Technical Skills
 
 ### <p align="center">🧑‍💻Languages</p>
