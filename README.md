@@ -130,6 +130,53 @@
 
 ---
 
+<!-- ================= 🏅 CERTIFICATIONS ================= -->
+
+# 🏅 Certifications
+
+<table align="center">
+<tr>
+
+<td align="center" width="420">
+
+<img src="https://img.icons8.com/color/96/mongodb.png" width="70"/>
+
+### 🍃 MongoDB Associate Developer
+
+**Issued By:** MongoDB University
+
+<img src="https://img.shields.io/badge/Status-Certified-00C853?style=for-the-badge" />
+
+</td>
+
+<td align="center" width="420">
+
+<img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" width="70"/>
+
+### ☕ Oracle Certified Professional
+
+**Java SE 17 Developer**
+
+**Issued By:** Oracle University
+
+<img src="https://img.shields.io/badge/Status-Certified-F80000?style=for-the-badge" />
+
+</td>
+
+</tr>
+</table>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-University-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Oracle-Java%20SE%2017%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+</p>
+
+---
+
+
 <!-- ================= 📊 GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
