@@ -9,7 +9,7 @@
 <!-- ================= ABOUT ================= -->
 ## 👩‍💻 About Me
 
-- 🎓 Pre-final year CSE student  
+- 🎓 Final year CSE student  
 - 🧠 Strong foundation in **DBMS & Data Structures**  
 - 💻 Skilled in **Python, Java, SQL**  
 - ⚙️ Focused on writing clean and efficient code  
@@ -93,7 +93,7 @@
 
 **Automated Coconut Sorting System**  
 <br/><br/>
-🏫 Hackvotrix 2k25
+🏫 Hackvotrix 2025
 <br/>
 📍 Kongu Engineering College  
 
@@ -106,7 +106,7 @@
 
 **Green Lifestyle & Finance Tracker**  
 <br/><br/>
-🏫 MCA Hackathon 2K25  
+🏫 MCA Hackathon 2025  
 <br/>
 📍 Kongu Engineering College  
 
@@ -119,7 +119,7 @@
 
 **Learning Management System**  
 <br/><br/>
-🏫 IDEATHON 2K25  
+🏫 IDEATHON 2025  
 <br/>
 📍 Kongu Engineering College  
 
