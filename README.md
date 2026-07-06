@@ -202,6 +202,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya1711&theme=tokyo-night&hide_border=true" />
 </p>
 
+
 ---
 
 <!-- ================= 🧠 LEETCODE ================= -->
@@ -262,6 +263,11 @@
 
 </div>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sreya1711&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+</p>
 
 ## 🏆 GitHub Achievements
 <p align="center">
