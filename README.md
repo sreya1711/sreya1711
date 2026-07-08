@@ -188,14 +188,6 @@
 </tr>
 </table>
 
-<p align="center">
-
-<img src="https://img.shields.io/badge/MongoDB-University-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Oracle-Java%20SE%2017%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-</p>
-
 ---
 
 
