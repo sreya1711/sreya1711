@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">SREYA RAJESH 🧑‍💻✨</h1>
 <p align="center">
-  <strong>Computer Science Student • Problem Solver • Tech Enthusiast</strong>
+  <strong>Computer Science Student</strong>
 </p>
 
 ---
