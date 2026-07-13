@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">SREYA RAJESH 🧑‍💻✨</h1>
 <p align="center">
-  <strong>Computer Science Student</strong>
+  <strong>Aspiring Software Engineer ⭐</strong>
 </p>
 
 ---
@@ -71,16 +71,6 @@
 </p>
 
 ---
-
-### 🌱 Currently Learning
-<p align="center">
-  <span style="background-color:#f39c12;color:white;padding:5px 10px;border-radius:5px;margin:2px;">Advanced MERN Stack</span>
-  <span style="background-color:#8e44ad;color:white;padding:5px 10px;border-radius:5px;margin:2px;">UI/UX & Animations</span>
-  <span style="background-color:#3498db;color:white;padding:5px 10px;border-radius:5px;margin:2px;">RESTful API & Cloud</span>
-</p>
-
----
-
 
 ### 🚀 Projects
 | Project | Tech Stack | Link |
