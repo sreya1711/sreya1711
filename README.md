@@ -32,12 +32,6 @@
 
 🏆 **Hackathon Projects** – Innovative solutions and prototypes
 
-🎨 **UI Experiments** – Responsive and creative frontend designs
-
-💡 **Mini Projects** – Fun ideas turned into working applications
-
-🚀 **Learning Journey** – Exploring new technologies every day
-
 ---
 
 ## 🚀 Technical Skills
@@ -97,10 +91,6 @@
 | **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) | 
 | **Calculator** | HTML, CSS | [Live](https://calculator-eight-gules-32.vercel.app/) | 
 
----
-
-### 🎶 Coding Vibes  
-> Currently jamming to: *lofi beats while debugging* 🎧
 ---
 
 ## 🏆 Achievements & Awards
@@ -228,12 +218,6 @@
 </p>
 
 ---
-
-## 💚 GeeksforGeeks Stats
-
-<p align="center">
-  <img src="https://gfgstatscard.vercel.app/sreyarajed9u0" />
-</p>
 
 <!-- ================= 👀 PROFILE VIEWS ================= -->
 ## 👀 Profile Views
