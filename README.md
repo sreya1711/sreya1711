@@ -66,7 +66,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-ff7675?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Communication-74b9ff?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20Collaboration-55efc4?style=for-the-badge&logo=people&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20work-55efc4?style=for-the-badge&logo=people&logoColor=white" />
 </p>
 
 ---
