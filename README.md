@@ -30,7 +30,6 @@
 
 🧩 **DSA Practice** – Arrays, Strings, Linked Lists & more
 
-🏆 **Hackathon Projects** – Innovative solutions and prototypes
 
 ---
 
