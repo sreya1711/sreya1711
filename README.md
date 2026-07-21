@@ -268,9 +268,5 @@
   <img src="https://img.shields.io/badge/Deliver-55efc4?style=for-the-badge" />
 </p>
 
-<p align="center">
-  <em>"Every line of code is a step closer to the future you're building."</em>
-</p>
-
 ---
 
