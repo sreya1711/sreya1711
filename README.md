@@ -13,7 +13,7 @@
 - 🧠 Strong foundation in **DBMS & Data Structures**  
 - 💻 Skilled in **Python, Java, SQL**  
 - ⚙️ Focused on writing clean and efficient code  
-- 🌱 Continuously learning and improving  
+- 🌱 Continuously learning and improving  skills
 
 
 ---
