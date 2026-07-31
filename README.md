@@ -11,7 +11,7 @@
 
 - 🎓 Final year CSE student  
 - 🧠 Strong foundation in **DBMS & Data Structures**  
-- 💻 Skilled in **Python, Java, SQL**  
+- 💻 Skilled in **Python, C, Java, SQL**  
 - ⚙️ Focused on writing clean and efficient code  
 - 🌱 Continuously learning and improving  skills
 
