@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
 </p>
 
-### <p align="center">🌐 Web & Frontend</p>
+### <p align="center">🌐 Frontend</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
