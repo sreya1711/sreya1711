@@ -1,7 +1,7 @@
 <!-- ================= HEADER ================= -->
 <h1 align="center">SREYA RAJESH 🧑‍💻✨</h1>
 <p align="center">
-  <strong>Final year CSE Student | Aspiring Software Engineer ⭐</strong>
+  <strong> Aspiring Software Engineer ⭐</strong>
 </p>
 
 ---
