@@ -1,22 +1,26 @@
 <!-- ================= HEADER ================= -->
+
 <h1 align="center">SREYA RAJESH 🧑‍💻✨</h1>
+
 <p align="center">
-  <strong> Aspiring Software Engineer | MERN developer ⭐</strong>
+  <strong>Aspiring Software Engineer | MERN Developer ⭐</strong>
 </p>
 
 ---
 
 <!-- ================= ABOUT ================= -->
+
 ## 👩‍💻 About Me
 
-- 🎓 Final year CSE student  
-- 🧠 Strong foundation in **DBMS & Data Structures**  
-- 💻 Skilled in **Python, C, Java, SQL**  
-- ⚙️ Focused on writing clean and efficient code  
-- 🌱 Continuously learning and improving  skills
-
+- 🎓 Final year CSE student
+- 🧠 Strong foundation in **DBMS & Data Structures**
+- 💻 Skilled in **Python, C, Java, SQL**
+- ⚙️ Focused on writing clean and efficient code
+- 🌱 Continuously learning and improving my skills
 
 ---
+
+<!-- ================= WHAT YOU'LL FIND ================= -->
 
 ## 📂 What You'll Find Here
 
@@ -30,12 +34,13 @@
 
 🧩 **DSA Practice** – Arrays, Strings, Linked Lists & more
 
-
 ---
+
+<!-- ================= TECHNICAL SKILLS ================= -->
 
 ## 🚀 Technical Skills
 
-### <p align="center">🧑‍💻Languages</p>
+### <p align="center">🧑‍💻 Languages</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,js" />
@@ -47,13 +52,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 </p>
 
-
 ### <p align="center">⚙️ Backend & Databases</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
-
 
 ### <p align="center">🛠️ Tools & Platforms</p>
 
@@ -61,69 +64,87 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
+---
+
+<!-- ================= SOFT SKILLS ================= -->
 
 ## 🌟 Soft Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Problem%20Solving-ff7675?style=for-the-badge&logo=code&logoColor=white" />
   <img src="https://img.shields.io/badge/Communication-74b9ff?style=for-the-badge&logo=wechat&logoColor=white" />
-  <img src="https://img.shields.io/badge/Team%20work-55efc4?style=for-the-badge&logo=people&logoColor=white" />
- <img src="https://img.shields.io/badge/Creativity-74b9ff?style=for-the-badge&logo=wechat&logoColor=white" />
+  <img src="https://img.shields.io/badge/Team%20Work-55efc4?style=for-the-badge&logo=people&logoColor=white" />
+  <img src="https://img.shields.io/badge/Creativity-74b9ff?style=for-the-badge&logo=wechat&logoColor=white" />
 </p>
 
 ---
 
-### 🚀 Projects
+<!-- ================= PROJECTS ================= -->
+
+## 🚀 Projects
+
 | Project | Tech Stack | Link |
 |---------|-----------|------|
 | **Mood Journal App** | React, Firebase | [Live](https://mood-journal-swart.vercel.app/) |
 | **Sudoku Solver** | React, JavaScript | [Live](https://sudoku11.vercel.app/) |
 | **Phone Book App** | React, Node.js | [Live](https://phone-book-orpin.vercel.app/) |
-| **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) | 
-| **Calculator** | HTML, CSS | [Live](https://calculator-eight-gules-32.vercel.app/) | 
+| **Burger Shop UI** | React, CSS | [Live](https://front-end-tfa1.vercel.app/) |
+| **Calculator** | HTML, CSS | [Live](https://calculator-eight-gules-32.vercel.app/) |
 
 ---
+
+<!-- ================= ACHIEVEMENTS ================= -->
 
 ## 🏆 Achievements & Awards
 
 <table align="center">
 <tr>
 
-<td align="center" width="300" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
+<td align="center" width="300">
 
-### 🥇 First Prize  
+### 🥇 First Prize
+
 <img src="https://img.icons8.com/color/96/trophy.png" width="60"/>
 
-**Automated Coconut Sorting System**  
-<br/><br/>
-🏫 Hackvotrix 2025
+**Automated Coconut Sorting System**
+
 <br/>
-📍 Kongu Engineering College  
+
+🏫 Hackvotrix 2025
+
+📍 Kongu Engineering College
 
 </td>
 
-<td align="center" width="300" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
+<td align="center" width="300">
 
-### 🥈 Second Prize  
+### 🥈 Second Prize
+
 <img src="https://img.icons8.com/color/96/medal2.png" width="60"/>
 
-**Green Lifestyle & Finance Tracker**  
-<br/><br/>
-🏫 MCA Hackathon 2025  
+**Green Lifestyle & Finance Tracker**
+
 <br/>
-📍 Kongu Engineering College  
+
+🏫 MCA Hackathon 2025
+
+📍 Kongu Engineering College
 
 </td>
 
-<td align="center" width="300" style="background-color:#0d1117; border:1px solid #30363d; border-radius:10px; padding:20px;">
+<td align="center" width="300">
 
-### 🥉 Third Prize  
+### 🥉 Third Prize
+
 <img src="https://img.icons8.com/color/96/medal.png" width="60"/>
 
-**Learning Management System**  
-<br/><br/>
-🏫 IDEATHON 2025  
+**Learning Management System**
+
 <br/>
-📍 Kongu Engineering College  
+
+🏫 IDEATHON 2025
+
+📍 Kongu Engineering College
 
 </td>
 
@@ -132,7 +153,7 @@
 
 ---
 
-<!-- ================= 🏅 CERTIFICATIONS ================= -->
+<!-- ================= CERTIFICATIONS ================= -->
 
 # 🏅 Certifications
 
@@ -170,8 +191,7 @@
 
 ---
 
-
-<!-- ================= 📊 GITHUB ANALYTICS ================= -->
+<!-- ================= GITHUB ANALYTICS ================= -->
 
 ## 📊 GitHub Analytics
 
@@ -187,26 +207,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sreya1711&show_icons=true&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sreya1711&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sreya1711&theme=tokyonight" />
-</p>
-
-
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya1711&theme=tokyo-night&hide_border=true" />
-</p>
-
-
 ---
 
-<!-- ================= 🧠 LEETCODE ================= -->
+<!-- ================= LEETCODE ================= -->
 
 ## 🧠 LeetCode Performance
 
@@ -216,57 +219,107 @@
 
 ---
 
-<!-- ================= 👀 PROFILE VIEWS ================= -->
+<!-- ================= HACKERRANK ================= -->
+
+## 🏆 HackerRank
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/sreyarajesh11081">
+    <img src="https://hackerrank-badges.vercel.app/api?username=sreyarajesh11081" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/profile/sreyarajesh11081">
+    <img src="https://img.shields.io/badge/View%20My-HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<!-- ================= CONTRIBUTION GRAPH ================= -->
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreya1711&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+<!-- ================= PROFILE VIEWS ================= -->
+
 ## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sreya1711&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-### 🌐 Connect with Me
+---
 
-<div align="center">
+<!-- ================= CONNECT ================= -->
 
-<a href="mailto:sreyarajesh110805@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50" />
-</a>
-&nbsp;&nbsp;
+## 🌐 Connect with Me
 
-<a href="https://www.linkedin.com/in/sreya-rajesh11/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50" />
-</a>
-&nbsp;&nbsp;
+<table align="center">
+<tr>
 
-<a href="https://github.com/sreya1711">
-  <img src="https://skillicons.dev/icons?i=github" height="50" />
-</a>
-&nbsp;&nbsp;
+<td align="center" width="90">
+  <a href="mailto:sreyarajesh110805@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45" />
+  </a>
+</td>
 
-<a href="https://leetcode.com/u/Sreya_11/">
-  <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="50" />
-</a>
-&nbsp;&nbsp;
+<td align="center" width="90">
+  <a href="https://www.linkedin.com/in/sreya-rajesh11/">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
+  </a>
+</td>
 
-<a href="https://www.geeksforgeeks.org/profile/sreyarajed9u0">
-  <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" height="50" />
-</a>
-&nbsp;&nbsp;
+<td align="center" width="90">
+  <a href="https://github.com/sreya1711">
+    <img src="https://skillicons.dev/icons?i=github" width="45" />
+  </a>
+</td>
 
-<a href="https://www.hackerrank.com/profile/sreyarajesh11081">
-  <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" height="50" />
-</a>
+<td align="center" width="90">
+  <a href="https://leetcode.com/u/Sreya_11/">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" width="45" />
+  </a>
+</td>
 
-</div>
+<td align="center" width="90">
+  <a href="https://www.geeksforgeeks.org/profile/sreyarajed9u0">
+    <img src="https://media.geeksforgeeks.org/gfg-gg-logo.svg" width="45" />
+  </a>
+</td>
 
+<td align="center" width="90">
+  <a href="https://www.hackerrank.com/profile/sreyarajesh11081">
+    <img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" width="45" />
+  </a>
+</td>
+
+</tr>
+</table>
+
+---
+
+<!-- ================= GITHUB ACHIEVEMENTS ================= -->
 
 ## 🏆 GitHub Achievements
+
 <p align="center">
   <a href="https://github.com/sreya1711?tab=achievements">
     <img src="https://img.shields.io/badge/View%20My-GitHub%20Achievements-gold?style=for-the-badge&logo=github" />
   </a>
 </p>
 
-## 🎨✨ Quote to End With  
+---
+
+<!-- ================= QUOTE ================= -->
+
+## 🎨✨ Quote to End With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Dream-ff6b81?style=for-the-badge" />
@@ -276,4 +329,3 @@
 </p>
 
 ---
-
