@@ -3,7 +3,7 @@
 <h1 align="center">SREYA RAJESH 🧑‍💻✨</h1>
 
 <p align="center">
-  <strong>Aspiring Software Engineer | MERN Developer ⭐</strong>
+  <strong>Aspiring Software Engineer⭐</strong>
 </p>
 
 ---
@@ -219,23 +219,6 @@
 
 ---
 
-<!-- ================= HACKERRANK ================= -->
-
-## 🏆 HackerRank
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/sreyarajesh11081">
-    <img src="https://hackerrank-badges.vercel.app/api?username=sreyarajesh11081" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.hackerrank.com/profile/sreyarajesh11081">
-    <img src="https://img.shields.io/badge/View%20My-HackerRank%20Profile-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
-</p>
-
----
 
 <!-- ================= CONTRIBUTION GRAPH ================= -->
 
