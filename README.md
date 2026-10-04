@@ -3,7 +3,7 @@
 <h1 align="center">SREYA RAJESH 🧑‍💻✨</h1>
 
 <p align="center">
-  <strong>Aspiring Software Engineer⭐</strong>
+  <strong>Aspiring Software Engineer👩‍💻</strong>
 </p>
 
 ---
